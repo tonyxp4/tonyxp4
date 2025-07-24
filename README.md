@@ -26,5 +26,5 @@
 ---
 
 <p align="center">
-  💻 &nbsp;| &nbsp; JavaScript &nbsp;| &nbsp; Node.js &nbsp;| &nbsp; React &nbsp;| &nbsp; Python &nbsp;| &nbsp; Docker &nbsp;| &nbsp; AWS &nbsp;|  
+  💻 &nbsp;| &nbsp; JavaScript &nbsp;| &nbsp; C/C++ &nbsp;| &nbsp; React Native &nbsp;| &nbsp; Python &nbsp;| &nbsp; PHP &nbsp;| &nbsp;  
 </p>
