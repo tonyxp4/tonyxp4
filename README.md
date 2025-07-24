@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=700&size=60&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=450&height=80&lines=xp4+%F0%9F%94%A5+%7C+Code+Like+a+Pro+%7C+%F0%9F%9A%80" alt="xp4 typing effect" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=700&size=60&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=450&height=80&lines=xp4+%F0%9F%94%A5+%7C+XP4+Code+%7C+%F0%9F%9A%80" alt="xp4 typing effect" />
 </h1>
 
 <p align="center">
